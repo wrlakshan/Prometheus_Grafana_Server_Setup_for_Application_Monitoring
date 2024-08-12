@@ -74,3 +74,9 @@ Login to Grafana at:
 [http://localhost:3000](http://localhost:3000)
 Default credentials are `admin` for both username and password.
 
+
+### 9. Reestart the running Docker Container
+Restart containers to effect the chnges:
+```bash
+docker-compose restart grafana
+```
