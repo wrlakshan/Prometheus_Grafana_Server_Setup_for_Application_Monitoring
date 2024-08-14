@@ -51,12 +51,14 @@ deactivate
 Build and start Docker containers:
 ```bash
 docker-compose up --build
+docker compose up --build
 ```
 
 ### 9. Run Docker Containers in Detached Mode
 Run containers in the background:
 ```bash
 docker-compose up -d
+docker compose up --build
 ```
 
 ## Accessing Applications and Tools
